@@ -1,0 +1,3 @@
+[submodule "themes/paige-hugo-theme"]
+	path = themes/paige-hugo-theme
+	url = https://github.com/bluv4nul/paige-hugo-theme

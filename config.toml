@@ -1,8 +1,0 @@
-baseURL =  "https://frolov-aa-portfolio.com/"
-title = "Портфолио"
-languageCode = "ru"
-
-theme = "documentation"
-
-[[module.imports]]
-    path = 'documentation'

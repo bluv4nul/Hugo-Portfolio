@@ -1,0 +1,183 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+<?xml version="1.0" encoding="utf-8"?>
+
+<rss version="2.0"  xml:lang="en-us"  xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        
+
+        
+
+        
+            <language>en-us</language>
+        
+
+        
+            <lastBuildDate>Wed, 04 Mar 2026 00:00:00 UTC</lastBuildDate>
+        
+
+        
+            <link>https://example.org/</link>
+        
+
+        
+            <atom:link href="https://example.org/rss.xml" hreflang="en-us" rel="self" type="application/rss+xml"/>
+        
+
+        
+            
+
+            <atom:link href="https://example.org/" hreflang="en-us" rel="alternate" type="text/html"/>
+        
+            
+
+            <atom:link href="https://example.org/rss.xml" hreflang="en-us" rel="alternate" type="application/rss+xml"/>
+        
+
+        
+
+        
+
+        
+            <title>Portfolio</title>
+        
+
+        
+
+        
+            
+                <item>
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+
+                    
+
+                    
+
+                    
+
+                    
+
+                    
+                    
+                    
+
+                    
+
+                    
+                        <description><![CDATA[<h1 id=страница-обо-мне>Страница обо мне</h1>]]></description>
+                    
+
+                    
+                        <guid isPermaLink="false">tag:example.org,2026-03-04:/about-me/aboutme/</guid>
+                    
+
+                    
+                        <link>https://example.org/about-me/aboutme/</link>
+                    
+
+                    
+                        
+
+                        
+
+                        <atom:link href="https://example.org/about-me/aboutme/" hreflang="en-us" rel="alternate" type="text/html"/>
+                    
+
+                    
+
+                    
+                        <pubDate>Wed, 04 Mar 2026 00:00:00 UTC</pubDate>
+                    
+
+                    
+                        <title>About Me</title>
+                    
+                </item>
+            
+        
+            
+                <item>
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+
+                    
+
+                    
+
+                    
+
+                    
+
+                    
+                    
+                    
+
+                    
+
+                    
+                        <description><![CDATA[<h1 id=практика>Практика</h1>]]></description>
+                    
+
+                    
+                        <guid isPermaLink="false">tag:example.org,2026-03-04:/portfolio/1-%D0%BA%D1%83%D1%80%D1%81/practise/</guid>
+                    
+
+                    
+                        <link>https://example.org/portfolio/1-%D0%BA%D1%83%D1%80%D1%81/practise/</link>
+                    
+
+                    
+                        
+
+                        
+
+                        <atom:link href="https://example.org/portfolio/1-%D0%BA%D1%83%D1%80%D1%81/practise/" hreflang="en-us" rel="alternate" type="text/html"/>
+                    
+
+                    
+
+                    
+                        <pubDate>Wed, 04 Mar 2026 00:00:00 UTC</pubDate>
+                    
+
+                    
+                        <title>Практика</title>
+                    
+                </item>
+            
+        
+    </channel>
+</rss>
